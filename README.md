@@ -1,4 +1,4 @@
-# POWERBI-Basics-Data-Transformation
+# POWERBI-Basics-Data-Transformation and Visualiozation
 In this Repository includes basics functions in a powerBI
 This is a dataset of store which has branches all over in the world
 Mainly using the procedure is datacleaning by using PowerBI
